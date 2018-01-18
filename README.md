@@ -1,2 +1,0 @@
-# MyApplication_New_2
-MyApplication_New_2
